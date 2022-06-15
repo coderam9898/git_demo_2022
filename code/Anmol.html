@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>formvalidation</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+    <form name="f1" action="#" onsubmit="validForm()" method="post">
+        <fieldset>
+            <legend>Register Form</legend>
+        <label for="firstname">FirstName:-</label>
+        <br/>
+        <input type="text" name="fname" id="firstname" placeholder="Enter your first name">
+        <br/>
+        <label for="LastName">LastName:-</label>
+        <br/>
+        <input type="text" name="lname" id="LastName" placeholder="Enter your last name">
+        <br/>
+        <label for="email">Email:-</label>
+        <br/>
+        <input type="email" name="email" id="email" placeholder="example@gmail.com">
+        <br/>
+        <label for="password">Password:-</label>
+        <br/>
+        <input type="password" name="password" id="password" placeholder="**********">
+        <br/>
+        <label for="cp">Confirm Password:-</label>
+        <br/>
+        <input type="password" name="password" id="cp" placeholder="**********">
+        <br/>
+        <label for="dob">Date of birth</label>
+        <br/>
+        <input type="date" name="bod" id="dob">
+        <br>
+        <label for="Contact">Contact:-</label>
+        <br/>
+        <input type="number" name="Contact" id="Contact" placeholder="98********">
+        <br/>
+        <label for="Gender">Gender:-</label>
+        <br/>
+        <input type="radio" name="Gender" id="Gender" value="male" checked>Male
+        <input type="radio" name="Gender" id="Gender" value="male">Female
+        <input type="radio" name="Gender" id="Gender" value="male">Others
+        <br/>
+        <button type="submit" class="button">Submit</button>
+        <input type="reset" value="Reset" class="button">
+    </fieldset>
+    </form>
+</body>
+</html>
