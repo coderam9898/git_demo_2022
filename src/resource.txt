@@ -1,0 +1,53 @@
+Free Web Hosting with PHP and MySQL - InfinityFree
+https://www.infinityfree.net/
+
+Cloudflare - The Web Performance & Security Company | Cloudflare
+https://www.cloudflare.com/en-gb/
+
+Netlify: Develop & deploy the best web experiences in record time
+https://www.netlify.com/
+
+Nepal's official .np Domain Registration
+https://register.com.np/
+
+GitHub: Where the world builds software · GitHub
+https://github.com/
+
+React – A JavaScript library for building user interfaces
+https://reactjs.org/
+
+GitHub Student Developer Pack - GitHub Education
+https://education.github.com/pack
+
+Figma: the collaborative interface design tool.
+https://www.figma.com/
+
+Node.js
+https://nodejs.org/en/
+
+Flutter - Build apps for any screen
+https://flutter.dev/
+
+W3Schools Online Web Tutorials
+https://www.w3schools.com/
+
+Tutorials List - Javatpoint
+https://www.javatpoint.com/
+
+Online Tutorials Library
+https://www.tutorialspoint.com/index.htm
+
+Stack Overflow - Where Developers Learn, Share, & Build Careers
+https://stackoverflow.com/
+
+Free Cloud Computing Services - AWS Free Tier
+https://aws.amazon.com/free/?trk=16847e0c-46fb-467d-91ee-6e259e339665&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P|PS-BI|Brand|Desktop|SU|Core-Main|Core|IN|EN|Text&s_kwcid=AL!4422!10!71949448220923!71949892741875&ef_id=6b8c1d5fbf871e39cbd27ff09a65ed20:G:s&s_kwcid=AL!4422!10!71949448220923!71949892741875&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
+
+Google Cloud for Education - Students
+https://cloud.google.com/edu/students
+
+Azure for Students – Free Account Credit | Microsoft Azure
+https://azure.microsoft.com/en-us/free/students/
+
+​This is made for the class demo for accessing all the available resources to learn more effctivly and without any boundary.
+
